@@ -1,4 +1,4 @@
-# lab-7
+# Lab-7 Parallel vs Sequential I/O
 
 ## Виконані вправи
 1. **SEQUENTIAL FILE READS** (`sequential_file_reads.js`) - Маршрут `GET /sequential`. Демонструє послідовне читання кількох файлів за допомогою `async/await` та вимірювання часу виконання (`elapsedMs`).
